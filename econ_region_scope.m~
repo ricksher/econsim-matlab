@@ -45,14 +45,13 @@ x = {'commodity', 'fiat'}
 
 y = {'one_org_spend','loaned','evenly_spent'}   
 %How does the money enter the economy?  Is is 
-%one_org_spend:  currency is spent by one economic participant or one economic entity (like a gold mining concern or a central bank) into the economy  
+%one_org_spend:  currency 
 %loaned:  traditional home and business lending. 
 %evenly_spent: a little currency is introduced to each economic participant evenly
 %other means?:. e.g. introduced on a investment basis into the economy
 
 z = {'total_reserve_banking','fractional_reserve_banking'}
-%If the currency is stored in a bank, is it stored on a total reserve or a
-%fractional reserve basis? 
+
 
 
 
